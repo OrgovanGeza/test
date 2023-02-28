@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 14:37:14</sys_created_on>
+        <sys_id>e945a5a12f9521106b422aa62799b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.726438.test.*.canvas_user</sys_name>
+        <sys_package display_value="Git Test" source="x_726438_git_test">7fc4a5212f9521106b422aa62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Test">7fc4a5212f9521106b422aa62799b6aa</sys_scope>
+        <sys_security_acl display_value="x.726438.test.*">a545a5a12f9521106b422aa62799b6f7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e945a5a12f9521106b422aa62799b6fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 14:37:14</sys_updated_on>
+        <sys_user_role display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
